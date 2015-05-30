@@ -1,0 +1,1 @@
+DROP MATERIALIZED VIEW unique_words;
